@@ -44,7 +44,7 @@ export default function bbc () {
           <div>
             <StaticImage
               alt="mobile images"
-              src="../../images/bbc-homepage.png"
+              src="../images/bbc-homepage.png"
               className="rounded-lg"
             />
           </div>

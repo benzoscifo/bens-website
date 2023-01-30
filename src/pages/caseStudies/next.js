@@ -327,7 +327,7 @@ export default function Next () {
               their product catalogue.
             </p>
             </span>
-            <div>
+            <div className="flex flex-wrap mx-auto py-8 px-6 w-full max-w-screen-xl">
             <StaticImage
               alt="mobile images"
               src="../../images/mini-next.png"
