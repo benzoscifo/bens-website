@@ -1,0 +1,1575 @@
+div.mini-card-grid {
+  bottom: 0px;
+  box-sizing: border-box;
+  color: #ffffff;
+  display: flex;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  gap: 1rem;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  left: 0px;
+  line-height: 27.2px;
+  margin: 0px;
+  padding: 3rem 0px 3rem 2rem;
+  position: relative;
+  right: 0px;
+  top: 0px;
+}
+
+article#mini-post-342750.mini-card.module.module-article.article {
+  border: linear-gradient(85deg, #434343, #262626);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  bottom: 0px;
+  box-sizing: border-box;
+  clear: both;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  left: 0px;
+  line-height: 27.2px;
+  margin: 0px;
+  min-height: 350px;
+  min-width: 300px;
+  padding: 1.5rem;
+  position: relative;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease 0s;
+}
+
+article#mini-post-342750.mini-card.module.module-article.article:focus-within {
+  transform: translate(-0.5rem, -1rem) rotate(3deg);
+}
+
+article#mini-post-342750.mini-card.module.module-article.article:hover {
+  transform: translate(-0.5rem, -1rem) rotate(3deg);
+}
+
+time {
+  box-sizing: border-box;
+  color: #ffffff;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 27.2px;
+  margin: 0px 0px 0.25rem;
+}
+
+strong {
+  box-sizing: border-box;
+  color: #d4d4d4;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 27.2px;
+}
+
+h3.mini-card-title {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+    "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  font-size: 20.8px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: -0.03rem;
+  line-height: 1.1;
+  margin: 0px 0px 1rem;
+}
+
+div.tags {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1;
+  margin: 0px 0px 0.5rem;
+}
+
+div.author-row {
+  align-items: center;
+  box-sizing: border-box;
+  color: #565656;
+  display: grid;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  gap: 0.5rem;
+  grid-template-columns: 40px 1fr;
+  line-height: 1.3;
+  margin-block-start: auto;
+  padding-top: 0.5rem;
+}
+
+div.author-row:last-child {
+  margin-bottom: 0px;
+}
+
+[aria-label="Author\ page\ of\ Ollie\ Williams"] {
+  box-sizing: border-box;
+  color: #0089c7;
+  cursor: pointer;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 20.8px;
+  text-decoration: none;
+}
+
+[aria-label="Author\ page\ of\ Ollie\ Williams"]:focus {
+  opacity: 0.66;
+}
+
+[aria-label="Author\ page\ of\ Ollie\ Williams"]:hover {
+  opacity: 0.66;
+}
+
+a.author-name {
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 20.8px;
+  text-decoration: none;
+}
+
+a.author-name:focus {
+  opacity: 0.66;
+}
+
+a.author-name:hover {
+  opacity: 0.66;
+}
+
+a.author-name:last-child {
+  margin-bottom: 0px;
+}
+
+article#mini-post-342448.mini-card.module.module-article.article {
+  background-color: #285122;
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  bottom: 0px;
+  box-sizing: border-box;
+  clear: both;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  left: 0px;
+  line-height: 27.2px;
+  margin: 0px;
+  min-height: 350px;
+  min-width: 300px;
+  padding: 1.5rem;
+  position: relative;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease 0s;
+}
+
+article#mini-post-342448.mini-card.module.module-article.article:focus-within {
+  transform: translateY(-1rem) rotate(3deg);
+}
+
+article#mini-post-342448.mini-card.module.module-article.article:hover {
+  transform: translateY(-1rem) rotate(3deg);
+}
+
+article#mini-post-342448.mini-card.module.module-article.article:not(:first-child) {
+  margin-left: -130px;
+}
+
+#mini-post-342448 time {
+  box-sizing: border-box;
+  color: #ffffff;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 27.2px;
+  margin: 0px 0px 0.25rem;
+}
+
+#mini-post-342448 strong {
+  box-sizing: border-box;
+  color: #d4d4d4;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 27.2px;
+}
+
+#mini-post-342448 .mini-card-title {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+    "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  font-size: 20.8px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: -0.03rem;
+  line-height: 1.1;
+  margin: 0px 0px 1rem;
+}
+
+#mini-post-342448 .tags {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1;
+  margin: 0px 0px 0.5rem;
+}
+
+#mini-post-342448 .author-row {
+  align-items: center;
+  box-sizing: border-box;
+  color: #565656;
+  display: grid;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  gap: 0.5rem;
+  grid-template-columns: 40px 1fr;
+  line-height: 1.3;
+  margin-block-start: auto;
+  padding-top: 0.5rem;
+}
+
+#mini-post-342448 .author-row:last-child {
+  margin-bottom: 0px;
+}
+
+.author-name[href="https\3A \/\/css-tricks\.com\/author\/preethisamathanam\/"] {
+  box-sizing: border-box;
+  color: #ffffff;
+  cursor: pointer;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 20.8px;
+  text-decoration: none;
+}
+
+article#mini-post-341948.mini-card.module.module-article.article {
+  background: linear-gradient(85deg, #dfb6d6, #e26b91);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  bottom: 0px;
+  box-sizing: border-box;
+  clear: both;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  left: 0px;
+  line-height: 27.2px;
+  margin: 0px;
+  min-height: 350px;
+  min-width: 300px;
+  padding: 1.5rem;
+  position: relative;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease 0s;
+}
+
+[datetime="2021-06-17"] {
+  box-sizing: border-box;
+  color: #777777;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 27.2px;
+  margin: 0px 0px 0.25rem;
+}
+
+[datetime="2021-06-17"] strong {
+  box-sizing: border-box;
+  color: #d4d4d4;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 27.2px;
+}
+
+[href="https\3A \/\/css-tricks\.com\/perfect-tooltips-with-css-clipping-and-masking\/"]:focus {
+  opacity: 0.66;
+}
+
+[href="https\3A \/\/css-tricks\.com\/perfect-tooltips-with-css-clipping-and-masking\/"]:hover {
+  opacity: 0.66;
+}
+
+#mini-post-341948 .tags {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1;
+  margin: 0px 0px 0.5rem;
+}
+
+[datetime="2021-06-24"] {
+  box-sizing: border-box;
+  color: #777777;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 27.2px;
+  margin: 0px 0px 0.25rem;
+}
+
+[datetime="2021-06-24"] strong {
+  box-sizing: border-box;
+  color: #d4d4d4;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 27.2px;
+}
+
+article#mini-post-341982.mini-card.module.module-article.article {
+  background: linear-gradient(85deg, #dfb6d6, #e26b91);
+  border-bottom-left-radius: 16px;
+  border-bottom-right-radius: 16px;
+  border-radius: 16px;
+  border-top-left-radius: 16px;
+  border-top-right-radius: 16px;
+  bottom: 0px;
+  box-sizing: border-box;
+  clear: both;
+  color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  left: 0px;
+  line-height: 27.2px;
+  margin: 0px;
+  min-height: 350px;
+  min-width: 300px;
+  padding: 1.5rem;
+  position: relative;
+  right: 0px;
+  top: 0px;
+  transition: all 0.2s ease 0s;
+}
+
+article#mini-post-341982.mini-card.module.module-article.article:focus-within {
+  transform: translateY(-1rem) rotate(3deg);
+}
+
+article#mini-post-341982.mini-card.module.module-article.article:hover {
+  transform: translateY(-1rem) rotate(3deg);
+}
+
+article#mini-post-341982.mini-card.module.module-article.article:not(:first-child) {
+  margin-left: -130px;
+}
+
+[datetime="2021-06-08"] {
+  box-sizing: border-box;
+  color: #777777;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 27.2px;
+  margin: 0px 0px 0.25rem;
+}
+
+[datetime="2021-06-08"] strong {
+  box-sizing: border-box;
+  color: #d4d4d4;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-weight: 700;
+  line-height: 27.2px;
+}
+
+#mini-post-341982 .mini-card-title {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+    "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  font-size: 20.8px;
+  font-style: normal;
+  font-weight: 800;
+  letter-spacing: -0.03rem;
+  line-height: 1.1;
+  margin: 0px 0px 1rem;
+}
+
+#mini-post-341982 .tags {
+  box-sizing: border-box;
+  color: #ffffff;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 1;
+  margin: 0px 0px 0.5rem;
+}
+
+#mini-post-341982 [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"] {
+  box-sizing: border-box;
+  color: #ff7a18;
+  cursor: pointer;
+  font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+    "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+  font-size: 0.66rem;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 10.56px;
+  margin-inline-end: 0.66rem;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+#mini-post-341982
+  [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"]:focus {
+  opacity: 0.66;
+}
+
+#mini-post-341982
+  [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"]:hover {
+  opacity: 0.66;
+}
+
+#mini-post-341982 .author-row {
+  align-items: center;
+  box-sizing: border-box;
+  color: #565656;
+  display: grid;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  gap: 0.5rem;
+  grid-template-columns: 40px 1fr;
+  line-height: 1.3;
+  margin-block-start: auto;
+  padding-top: 0.5rem;
+}
+
+#mini-post-341982 .author-row:last-child {
+  margin-bottom: 0px;
+}
+
+[aria-label="Author\ page\ of\ Todd\ Libby"] {
+  box-sizing: border-box;
+  color: #0089c7;
+  cursor: pointer;
+  display: block;
+  font-family: "Sentinel SSm A", "Sentinel SSm B", system-ui, -apple-system,
+    BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  line-height: 20.8px;
+  text-decoration: none;
+}
+
+[aria-label="Author\ page\ of\ Todd\ Libby"]:focus {
+  opacity: 0.66;
+}
+
+[aria-label="Author\ page\ of\ Todd\ Libby"]:hover {
+  opacity: 0.66;
+}
+
+@media all {
+  div.mini-card-grid {
+    box-sizing: border-box;
+    display: flex;
+    gap: 1rem;
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+    margin: 0px;
+
+    padding: 3rem 0px 3rem 2rem;
+    position: relative;
+  }
+
+  article#mini-post-342750.mini-card.module.module-article.article {
+    background: linear-gradient(85deg, #dfb6d6, #e26b91);
+    border-radius: 16px;
+    box-sizing: border-box;
+    clear: both;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    min-height: 350px;
+    min-width: 300px;
+    padding: 1.5rem;
+    position: relative;
+  }
+
+  time {
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    margin: 0px 0px 0.25rem;
+  }
+
+  strong {
+    box-sizing: border-box;
+    color: #d4d4d4;
+    font-weight: 700;
+  }
+
+  h3.mini-card-title {
+    box-sizing: border-box;
+    font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+      "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: -0.03rem;
+    line-height: 1.1;
+    margin: 0px 0px 1rem;
+  }
+
+  div.tags {
+    box-sizing: border-box;
+    line-height: 1;
+    margin: 0px 0px 0.5rem;
+  }
+
+  div.author-row {
+    align-items: center;
+    box-sizing: border-box;
+    color: #565656;
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: 40px 1fr;
+    line-height: 1.3;
+    margin-block-start: auto;
+    padding-top: 0.5rem;
+  }
+
+  div.author-row:last-child {
+    margin-bottom: 0px;
+  }
+
+  [aria-label="Author\ page\ of\ Ollie\ Williams"] {
+    box-sizing: border-box;
+    color: #0089c7;
+    text-decoration: none;
+  }
+
+  a.author-name {
+    box-sizing: border-box;
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  a.author-name:last-child {
+    margin-bottom: 0px;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article {
+    background: linear-gradient(85deg, #dfb6d6, #e26b91);
+    border-radius: 16px;
+    box-sizing: border-box;
+    clear: both;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    min-height: 350px;
+    min-width: 300px;
+    padding: 1.5rem;
+    position: relative;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -130px;
+  }
+
+  #mini-post-342448 time {
+    box-sizing: border-box;
+    color: #ffffff;
+    display: block;
+    margin: 0px 0px 0.25rem;
+  }
+
+  #mini-post-342448 strong {
+    box-sizing: border-box;
+    color: #d4d4d4;
+    font-weight: 700;
+  }
+
+  #mini-post-342448 .mini-card-title {
+    box-sizing: border-box;
+    font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+      "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: -0.03rem;
+    line-height: 1.1;
+    margin: 0px 0px 1rem;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji\/"] {
+    box-sizing: border-box;
+    color: #ffffff !important;
+    text-decoration: none;
+  }
+
+  #mini-post-342448 .tags {
+    box-sizing: border-box;
+    line-height: 1;
+    margin: 0px 0px 0.5rem;
+  }
+
+  #mini-post-342448 .author-row {
+    align-items: center;
+    box-sizing: border-box;
+    color: #565656;
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: 40px 1fr;
+    line-height: 1.3;
+    margin-block-start: auto;
+    padding-top: 0.5rem;
+  }
+
+  #mini-post-342448 .author-row:last-child {
+    margin-bottom: 0px;
+  }
+
+  [aria-label="Author\ page\ of\ Preethi"] {
+    box-sizing: border-box;
+    color: #0089c7;
+    text-decoration: none;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/preethisamathanam\/"] {
+    box-sizing: border-box;
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/preethisamathanam\/"]:last-child {
+    margin-bottom: 0px;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article {
+    background: linear-gradient(85deg, #dfb6d6, #e26b91);
+    border-radius: 16px;
+    box-shadow: #000000 -2rem 0px 3rem -2rem;
+    box-sizing: border-box;
+    clear: both;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    margin: 0px;
+    min-height: 350px;
+    min-width: 300px;
+    padding: 1.5rem;
+    position: relative;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article:not(:first-child) {
+    box-shadow: #000000 -3rem 0px 3rem -2rem;
+    margin-left: -130px;
+  }
+
+  [datetime="2021-06-08"] {
+    box-sizing: border-box;
+    color: #777777;
+    display: block;
+    margin: 0px 0px 0.25rem;
+  }
+
+  [datetime="2021-06-08"] strong {
+    box-sizing: border-box;
+    color: #d4d4d4;
+    font-weight: 700;
+  }
+
+  #mini-post-341982 .mini-card-title {
+    box-sizing: border-box;
+    font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+      "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+    font-size: 1.3rem;
+    font-style: normal;
+    font-weight: 800;
+    letter-spacing: -0.03rem;
+    line-height: 1.1;
+    margin: 0px 0px 1rem;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/looking-at-wcag-2-5-5-for-better-target-sizes\/"] {
+    box-sizing: border-box;
+    color: #ffffff !important;
+    text-decoration: none;
+  }
+
+  #mini-post-341982 .tags {
+    box-sizing: border-box;
+    line-height: 1;
+    margin: 0px 0px 0.5rem;
+  }
+
+  #mini-post-341982
+    [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"] {
+    box-sizing: border-box;
+    color: #ff7a18;
+    font-family: "Gotham Narrow SSm A", "Gotham Narrow SSm B", Rubik, Lato,
+      "Lucida Grande", "Lucida Sans Unicode", Tahoma, sans-serif;
+    font-size: 0.66rem;
+    font-style: normal;
+    font-weight: 800;
+    margin-inline-end: 0.66rem;
+    text-decoration: none;
+    text-transform: uppercase;
+  }
+
+  #mini-post-341982 .author-row {
+    align-items: center;
+    box-sizing: border-box;
+    color: #565656;
+    display: grid;
+    gap: 0.5rem;
+    grid-template-columns: 40px 1fr;
+    line-height: 1.3;
+    margin-block-start: auto;
+    padding-top: 0.5rem;
+  }
+
+  #mini-post-341982 .author-row:last-child {
+    margin-bottom: 0px;
+  }
+
+  [aria-label="Author\ page\ of\ Todd\ Libby"] {
+    box-sizing: border-box;
+    color: #0089c7;
+    text-decoration: none;
+  }
+
+  img.avatar.avatar-80.photo.avatar-default.jetpack-lazy-image {
+    border: 0px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    height: 40px;
+    margin-right: 0.5rem;
+    max-width: 100%;
+    width: 40px;
+  }
+
+  [aria-label="Author\ page\ of\ Todd\ Libby"] noscript {
+    box-sizing: border-box;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/toddlibby\/"] {
+    box-sizing: border-box;
+    color: #ffffff;
+    font-weight: 700;
+    text-decoration: none;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/toddlibby\/"]:last-child {
+    margin-bottom: 0px;
+  }
+}
+
+@media screen and (prefers-reduced-motion: reduce) {
+  div.mini-card-grid {
+    transition: all 0s ease 0s !important;
+  }
+
+  article#mini-post-342750.mini-card.module.module-article.article {
+    transition: all 0s ease 0s !important;
+  }
+
+  time {
+    transition: all 0s ease 0s !important;
+  }
+
+  strong {
+    transition: all 0s ease 0s !important;
+  }
+
+  h3.mini-card-title {
+    transition: all 0s ease 0s !important;
+  }
+
+  a {
+    transition: all 0s ease 0s !important;
+  }
+
+  div.tags {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/avif\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/image-set\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/picture\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/srcset\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  div.author-row {
+    transition: all 0s ease 0s !important;
+  }
+
+  [aria-label="Author\ page\ of\ Ollie\ Williams"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  img.avatar.avatar-80.photo.jetpack-lazy-image.jetpack-lazy-image--handled {
+    transition: all 0s ease 0s !important;
+  }
+
+  noscript {
+    transition: all 0s ease 0s !important;
+  }
+
+  a.author-name {
+    transition: all 0s ease 0s !important;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article {
+    transition: all 0s ease 0s !important;
+  }
+
+  #mini-post-342448 time {
+    transition: all 0s ease 0s !important;
+  }
+
+  #mini-post-342448 strong {
+    transition: all 0s ease 0s !important;
+  }
+
+  #mini-post-342448 .mini-card-title {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  #mini-post-342448 .tags {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/charts\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/css-shapes\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/emoji\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/glyphs\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/svg\/"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  #mini-post-342448 .author-row {
+    transition: all 0s ease 0s !important;
+  }
+
+  [aria-label="Author\ page\ of\ Preethi"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [src="https\3A \/\/secure\.gravatar\.com\/avatar\/f0607686c32fd18a7af74392a2652860\?s\=80\&d\=retro\&r\=pg"] {
+    transition: all 0s ease 0s !important;
+  }
+
+  [aria-label="Author\ page\ of\ Preethi"] noscript {
+    transition: all 0s ease 0s !important;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  div.mini-card-grid {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  article#mini-post-342750.mini-card.module.module-article.article {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  time {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  strong {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  h3.mini-card-title {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  a {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  div.tags {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/avif\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/image-set\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/picture\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/srcset\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  div.author-row {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [aria-label="Author\ page\ of\ Ollie\ Williams"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  img.avatar.avatar-80.photo.jetpack-lazy-image.jetpack-lazy-image--handled {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  noscript {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  a.author-name {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-342448 time {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-342448 strong {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-342448 .mini-card-title {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/how-to-create-css-charts-with-interesting-shapes-glyphs-and-emoji\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-342448 .tags {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/charts\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/css-shapes\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/emoji\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/glyphs\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/svg\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-342448 .author-row {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [aria-label="Author\ page\ of\ Preethi"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [src="https\3A \/\/secure\.gravatar\.com\/avatar\/f0607686c32fd18a7af74392a2652860\?s\=80\&d\=retro\&r\=pg"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [aria-label="Author\ page\ of\ Preethi"] noscript {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/preethisamathanam\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [datetime="2021-06-17"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [datetime="2021-06-17"] strong {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [datetime="2021-06-08"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [datetime="2021-06-08"] strong {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-341982 .mini-card-title {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/looking-at-wcag-2-5-5-for-better-target-sizes\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-341982 .tags {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-341982
+    [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  #mini-post-341982 .author-row {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [aria-label="Author\ page\ of\ Todd\ Libby"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  img.avatar.avatar-80.photo.avatar-default.jetpack-lazy-image {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  [aria-label="Author\ page\ of\ Todd\ Libby"] noscript {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/toddlibby\/"] {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@media (max-width: 1200px) {
+  article#mini-post-342750.mini-card.module.module-article.article {
+    min-width: 220px;
+    scroll-snap-align: start;
+  }
+
+  article#mini-post-342750.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article {
+    min-width: 220px;
+    scroll-snap-align: start;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -30px;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article {
+    min-width: 220px;
+    scroll-snap-align: start;
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -30px;
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342358.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -30px;
+  }
+
+  article#mini-post-342358.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article {
+    min-width: 220px;
+    scroll-snap-align: start;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -30px;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+}
+
+@media (max-width: 800px) {
+  article#mini-post-342750.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-342750.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-342448.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-341948.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342818.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-342818.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-342818.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342925.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-342925.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-342925.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-341584.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-341584.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-341584.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342248.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-342248.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-342248.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-341342.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-341342.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-341342.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-342358.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-342358.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-342358.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article {
+    min-width: 190px;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article:not(:first-child) {
+    margin-left: -10px;
+  }
+
+  article#mini-post-341982.mini-card.module.module-article.article:hover {
+    transform: translateY(-1rem);
+  }
+}
+
+@media print {
+  time {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  a {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  #mini-post-341342 .tags {
+    display: none !important;
+  }
+
+  #mini-post-341342
+    [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  #mini-post-341342 [href="https\3A \/\/css-tricks\.com\/tag\/performance\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/testing\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/unit-tests\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/tag\/visual-testing\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [aria-label="Author\ page\ of\ Evgeny\ Klimenchenko"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/evgenyklimenchenko\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [datetime="2021-06-16"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/inline-styles-as-classes-lol\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  #mini-post-342358 [aria-label="Author\ page\ of\ Chris\ Coyier"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  #mini-post-342358 .author-name {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [datetime="2021-06-08"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [href="https\3A \/\/css-tricks\.com\/looking-at-wcag-2-5-5-for-better-target-sizes\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  #mini-post-341982 .tags {
+    display: none !important;
+  }
+
+  #mini-post-341982
+    [href="https\3A \/\/css-tricks\.com\/tag\/accessibility\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  [aria-label="Author\ page\ of\ Todd\ Libby"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+
+  .author-name[href="https\3A \/\/css-tricks\.com\/author\/toddlibby\/"] {
+    background: 0px 0px !important;
+    color: #000000 !important;
+  }
+}
+
+.parallaxImage {
+  position: relative;
+  height: 100vh;
+}
+
+.parallaxImageSmall {
+  position: relative;
+  height: 60vh;
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  height: 100vh;
+  width: 100%;
+}
+
+.contentBasic {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 100%;
+}

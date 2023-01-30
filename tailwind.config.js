@@ -1,66 +1,65 @@
 module.exports = {
-    content: [
-      './src/**/*.{html,js}',
-      './components/**/*.html.js'
-    ],
-    theme: {
-      height: {
-        hero: "75vh",
+  content: [
+    './src/**/*.{html,js}',
+    './components/**/*.html.js'
+  ],
+  theme: {
+    height: {
+      hero: "75vh",
+    },
+    backgroundColor: theme => ({
+      argos: "#FF0000",
+      argosLite: "#00ACD7",
+      orange: "#FFA500",
+      green: "#10B981",
+      blue: "#42A0F9",
+      charcoal: "#333333",
+      bloodhound: "#CD2D09",
+      white: "#FFFFFF",
+      gray: "#F2F1F0",
+      gold: "#FFD700",
+      black: "#000000",
+      darkGray: "#212121",
+      pastelBlue: "#AFCBFF",
+      blueViolets: "#4377D1",
+      pastelGreen: "#ADDDCE",
+      pastelPink: "#F3D1DC",
+      darkPastelGreen: "#70AE98",
+      brickRed: "#D1495B",
+      paleGreen: "#0B4F6C",
+      bbc: "#b90000",
+      bbcBlue: "#1338BE",
+      greyWhite: "#f8f8f8",
+    }),
+    extend: {
+      backgroundImage: {
+        oceanBackground: "url('../images/ocean.jpeg')",
       },
-      backgroundColor: theme => ({
-        argos: "#FF0000",
-        argosLite: "#00ACD7",
-        orange: "#FFA500",
-        green: "#10B981",
-        blue: "#42A0F9",
-        charcoal: "#333333",
-        bloodhound: "#CD2D09",
+      colors: {
         white: "#FFFFFF",
-        gray: "#F2F1F0",
+        argosLite: "#00ACD7",
+        blue: "#42A0F9",
+        argos: "#FF0000",
+        orange: "#FFA500",
+        bloodhound: "#CD2D09",
+        green: "#10B981",
+        beige: "#E8DED1",
         gold: "#FFD700",
         black: "#000000",
         darkGray: "#212121",
         pastelBlue: "#AFCBFF",
-        blueViolets: "#4377D1",
-        pastelGreen: "#ADDDCE",
+        blueViolets: "#9DABDD",
+        pastelGreen: "#70AE98",
         pastelPink: "#F3D1DC",
-        darkPastelGreen: "#70AE98",
         brickRed: "#D1495B",
-        paleGreen: "#0B4F6C",
+        darkPastelGreen: "#70AE98",
         bbc: "#b90000",
         bbcBlue: "#1338BE",
-        greyWhite: "#f8f8f8",
-      }),
-      extend: {
-        backgroundImage: {
-          oceanBackground: "url('../images/ocean.jpeg')",
-        },
-        colors: {
-          white: "#FFFFFF",
-          argosLite: "#00ACD7",
-          blue: "#42A0F9",
-          argos: "#FF0000",
-          orange: "#FFA500",
-          bloodhound: "#CD2D09",
-          green: "#10B981",
-          beige: "#E8DED1",
-          gold: "#FFD700",
-          black: "#000000",
-          darkGray: "#212121",
-          pastelBlue: "#AFCBFF",
-          blueViolets: "#9DABDD",
-          pastelGreen: "#70AE98",
-          pastelPink: "#F3D1DC",
-          brickRed: "#D1495B",
-          darkPastelGreen: "#70AE98",
-          bbc: "#b90000",
-          bbcBlue: "#1338BE",
-        },
       },
     },
-    variants: {
-      extend: {},
-    },
-    plugins: [],
-  }
-  
+  },
+  variants: {
+    extend: {},
+  },
+  plugins: [],
+}

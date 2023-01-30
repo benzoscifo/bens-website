@@ -1878,7 +1878,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 function Slice(props) {
-  if (({}).GATSBY_SLICES) {
+  if (true) {
     // we use sliceName internally, so remap alias to sliceName
     const internalProps = {
       ...props,
@@ -1917,9 +1917,7 @@ function Slice(props) {
     } else {
       throw new Error(`Slice context "${slicesContext.renderEnvironment}" is not supported.`);
     }
-  } else {
-    throw new Error(`Slices are disabled.`);
-  }
+  } else {}
 }
 class SlicePropsError extends Error {
   constructor(inBrowser, sliceName, propErrors, renderedByLocation) {
