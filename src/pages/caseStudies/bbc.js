@@ -41,13 +41,13 @@ export default function bbc () {
       </section>
       <section className="mt-10">
         <div className="flex flex-wrap mx-auto py-0 px-6 w-full max-w-screen-xl">
-          <div>
+          {/* <div>
             <StaticImage
               alt="mobile images"
-              src="../images/bbc-homepage.png"
+              src="../../images/bbc-homepage.png"
               className="rounded-lg"
             />
-          </div>
+          </div> */}
         </div>
       </section>
       <section className="mt-14 md:mt-20">
