@@ -70,8 +70,8 @@ export default function Next () {
       <Accordion allowZeroExpanded>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
                     1. Visibility of system status
                     </span>
                     </AccordionItemButton>
@@ -105,8 +105,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               2. Match between system and the real world
             </span>
                     </AccordionItemButton>
@@ -140,8 +140,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               3. User control and freedom
             </span>
                     </AccordionItemButton>
@@ -172,8 +172,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               4. Consistency and Standard
             </span>
                     </AccordionItemButton>
@@ -207,8 +207,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               5. Error Prevention
             </span>
                     </AccordionItemButton>
@@ -242,8 +242,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               6. Recognition rather than recall
             </span>
                     </AccordionItemButton>
@@ -272,9 +272,9 @@ export default function Next () {
                 </AccordionItemPanel>
             </AccordionItem>
             <AccordionItem>
-                <AccordionItemHeading>
+                <AccordionItemHeading className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
                     <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <span className="text-xl sm:text-2xl font-semibold">
               7. Flexibility and efficiency of use
             </span>
                     </AccordionItemButton>
@@ -306,8 +306,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               8. Aesthetic and Minimalist design
             </span>
                     </AccordionItemButton>
@@ -338,8 +338,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               9. Help users recognise, diagnose and recover from errors
             </span>
                     </AccordionItemButton>
@@ -368,8 +368,8 @@ export default function Next () {
             </AccordionItem>
             <AccordionItem>
                 <AccordionItemHeading>
-                    <AccordionItemButton>
-                    <span className="text-xl sm:text-2xl font-semibold pb-6 ml-0 md:ml-24">
+                    <AccordionItemButton className="flex flex-wrap mx-auto p-5 border-4  w-full max-w-screen-xl">
+                    <span className="text-xl sm:text-2xl font-semibold">
               10. Help and Documentation
             </span>
                     </AccordionItemButton>

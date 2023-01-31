@@ -2,6 +2,7 @@ import React from "react"
 import "../styles/global.css"
 import { Link } from "gatsby"
 import { StaticImage } from "gatsby-plugin-image"
+import icon from '../images/kangaroo.svg'
 
 export default function Navbar() {
   return (
@@ -15,11 +16,7 @@ export default function Navbar() {
                 href="/"
               >
                 <div className="flex items-center">
-                  {/* <StaticImage
-                    src="../images/kangaroo.svg"
-                    width={45}
-                    aspectRatio={1}
-                  /> */}
+                  <img src={icon} />
                   <span className="ml-3 text-xl text-gray-400 hover:text-pastelGreen hover:underline">
                     Benjamin Cranwell
                   </span>
