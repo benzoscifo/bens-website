@@ -24,7 +24,7 @@ const Home = () => {
               <h1 className=" sm:text-4xl text-3xl mb-32 font-medium text-gray-400">
                 I build web pages to be sleek, sharp and{" "}
                 <RoughNotation type="underline" show={show} color={"red"}>
-                  sustainable
+                  Sustainable
                 </RoughNotation>
               </h1>
 
