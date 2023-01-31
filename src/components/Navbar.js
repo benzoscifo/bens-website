@@ -1,7 +1,6 @@
 import React from "react"
 import "../styles/global.css"
 import { Link } from "gatsby"
-import { StaticImage } from "gatsby-plugin-image"
 import icon from '../images/kangaroo.svg'
 
 export default function Navbar() {
